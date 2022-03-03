@@ -8,6 +8,6 @@ Official Language Support:
 * Java
 * ini
 
-(Started circa May 2020)
+(I Started making the theme around May 2020)
 
 **Enjoy!**

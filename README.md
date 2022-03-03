@@ -8,6 +8,6 @@ Official Language Support:
 * Java
 * ini
 
-(Last Updated: 2/4/2022)
+(Started circa September 2020)
 
 **Enjoy!**
